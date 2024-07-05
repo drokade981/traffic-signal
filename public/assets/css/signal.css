@@ -1,0 +1,22 @@
+#traffic-form {
+    margin : 50px;
+}
+.signal {
+    width : 80px;
+    height : 80px;
+    border-radius : 50%;
+    padding :30px; 
+    margin-bottom : 20px;      
+}
+.red {
+    background-color : red;
+}
+.green {
+    background-color : green;
+}
+.yellow {
+    background-color : yellow;
+}
+.row {
+    margin-bottom: 40px;
+}
